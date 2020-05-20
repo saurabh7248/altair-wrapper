@@ -1,5 +1,5 @@
 # altair-wrapper
-A wrapper to simpily using altair visualization library.
+A wrapper to simplify using altair visualization library.
 
 ## Installation
 ```
